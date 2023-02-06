@@ -1,0 +1,14 @@
+
+.navbar{
+   
+    background-color: #1F2D47;
+}
+.text{
+    color: aliceblue;
+    
+
+}
+.text :hover{
+    color: aqua;
+}
+
